@@ -8,6 +8,7 @@
     Content-Type: application/json
     [
       {
+      "all_cards"{
         "id": 10,
         "business_title": "Web Development",
         "tag_line": "Best Development",
@@ -20,6 +21,7 @@
         "other_social_media" : "www.instagram.com",
         "image" : "store_image",
         "description": "Description is here"
-      },
+        }
+      }
       ]
  
